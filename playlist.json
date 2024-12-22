@@ -1,10 +1,28 @@
 {
     "playlist": [
-        "https://youtu.be/46kbwNWKmuE",
-        "https://youtu.be/sx5lPpdUSMA",
-        "https://youtu.be/ccjVjblZw-k",
-        "https://youtu.be/l_ye2c-VNkQ",
-        "https://youtu.be/oVp6E9Yfsmg",
-        "https://youtu.be/MC1Wk0epDzI"
-      ]
+        {
+            "url": "https://youtu.be/MC1Wk0epDzI",
+            "title": "Auto Remediation"
+        },        
+        {
+            "url": "https://youtu.be/46kbwNWKmuE",
+            "title": "Tagging Coverage"
+        },
+        {
+            "url": "https://youtu.be/sx5lPpdUSMA",
+            "title": "Cloud Governance - Cloud Waste Management"
+        },
+        {
+            "url": "https://youtu.be/ccjVjblZw-k",
+            "title": "Discover Your IaC Coverage"
+        },
+        {
+            "url": "https://youtu.be/l_ye2c-VNkQ",
+            "title": "IaC Drift Detection & Remediation"
+        },
+        {
+            "url": "https://youtu.be/oVp6E9Yfsmg",
+            "title": "Asset Relationship"
+        }
+    ]
 }
