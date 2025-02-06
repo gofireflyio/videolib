@@ -1,6 +1,10 @@
 {
-    "playlist": [
+    "playlist": [ 
         {
+            "url": "https://youtu.be/U-ARL8ZRbJc",
+            "title": "Guardrails Override Controls"
+        },
+	{
             "url": "https://youtu.be/bX2N-M1mfao",
             "title": "Analytics Dashboard"
         },
