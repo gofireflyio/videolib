@@ -1,6 +1,10 @@
 {
-    "playlist": [ 
+    "playlist": [
         {
+            "url": "https://youtu.be/GMdDkiZcddE",
+            "title": "Event Center ClickOps Audit"
+        },
+	{
             "url": "https://youtu.be/U-ARL8ZRbJc",
             "title": "Guardrails Override Controls"
         },
