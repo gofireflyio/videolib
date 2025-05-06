@@ -1,6 +1,10 @@
 {
     "playlist": [
         {
+            "url": "https://youtu.be/lErjpbqF4e8",
+            "title": "Cursor Integration with MCP Server"
+        },
+        {
             "url": "https://youtu.be/GMdDkiZcddE",
             "title": "Event Center ClickOps Audit"
         },
